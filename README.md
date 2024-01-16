@@ -58,7 +58,7 @@ In this step, I will perform the following:
 In this step, I will perform the following:
 - Create dashboards that are relevant to the topic of this project.
 
-# Step 7: Final report
+## Step 7: Final report
 
 In this step, I will perform the following:
 - Summarize all my findings in a report.
